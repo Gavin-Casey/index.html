@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <title>Index Page</title>
 <style>
@@ -7,5 +7,7 @@
 </style>
 </head>
 <body>
+<h1>Index</h1>
+
 
 <a href="https://gavin-casey.github.io/caseygshortstory.github.io/">3 Pages Assignment</a>
