@@ -4,6 +4,9 @@
   <title>Index Page</title>
 <style>
   h1 {color:red;}
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {text-align: center;}
 </style>
 </head>
 <body>
